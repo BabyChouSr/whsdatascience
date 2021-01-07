@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+.top-container {
+    text-align: center;
+    background-color: #ce93b0;
+}
+.middle-container {
+    text-align:center;
+    background-color: cyan;
+}

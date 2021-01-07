@@ -1,0 +1,41 @@
+h1 {
+    text-align:center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    text-align:center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+h3 {
+    text-align:center;
+}
+.HEY{
+    color:green;
+    font-size: 28px;
+}
+body {
+    color:black;
+    font-family: Verdana, sans-serif;
+}
+.top-container {
+    text-align:center;
+    background-color: #93ccea;
+}
+hr {
+    border: dotted #EAF6F6 6px;
+    width: 4%;
+    border-bottom: none;
+
+}
+.middle-container {
+    width: 30%;
+    margin:auto;
+    text-align: center;
+}
+
+.bottom-container {
+    text-align: center;
+}
